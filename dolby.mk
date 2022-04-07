@@ -44,6 +44,6 @@ PRODUCT_PACKAGES += \
 # Property Overrides
 PRODUCT_PROPERTY_OVERRIDES += \
     persist.vendor.audio_fx.current=dolby \
-    ro.vendor.dolby.dax.version=DS1_2.2.0.0_r1=true \
+    ro.vendor.dolby.dax.version=DS1_2.3.0.0_r1=true \
     vendor.audio.dolby.ds2.enabled=true \
     vendor.audio.dolby.ds2.hardbypass=true
